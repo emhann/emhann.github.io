@@ -1,0 +1,11 @@
+p {
+	/*font-family: 'Open Sans', serif;*/
+  font-size: 1em;
+  text-align: center;
+  color: black;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
