@@ -1,6 +1,6 @@
 /* Header */
 .large-header {
-	font-family: 'Clicker Script', cursive;
+	/*font-family: 'Clicker Script', cursive;*/
 	position: relative;
 	width: 100%;
 	background: #333;
@@ -8,10 +8,6 @@
 	background-size: cover;
 	background-position: center center;
 	z-index: 1;
-}
-
-.demo-1 .large-header {
-	background-image: url('../img/demo-1-bg.jpg');
 }
 
 .demo-2 .large-header {
@@ -101,9 +97,6 @@ a:hover{
 }
 
 @media only screen and (max-width : 768px) {
-	.demo-1 .main-title {
-		font-size: 3em;
-	}
 
 	.demo-2 .main-title {
 		font-size: 5em;
