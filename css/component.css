@@ -11,6 +11,7 @@
 }
 
 .demo-2 .large-header {
+	font-family: 'Clicker Script', cursive;
 	background-image: url('../img/firewatch.jpg');
 	background-position: center bottom;
 }
